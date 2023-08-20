@@ -78,8 +78,6 @@ YouTube video downloaders being legal or illegal is quite a controversial topic,
   
 - - - -
 
-WARNING: Please DO NOT use this software to download YouTube copy-righted videos. 
-
 # How did I make this application? #
 
 I used both my own basic knowledge of Python and quite a bit of ChatGPT to create this application, the background of the web server was created by an AI - I will link the page when I find it again.
@@ -88,3 +86,5 @@ I used both my own basic knowledge of Python and quite a bit of ChatGPT to creat
 This application is for educational purposes and is not intended for Illegal uses - To download anything with this tool you must have explicit permission from the owner of the video/audio. 
 
 I take no responsibility for any illegal charges or imprisonment resulting in downloaded files using this application.
+
+WARNING: Please DO NOT use this software to download YouTube copy-righted videos. 
