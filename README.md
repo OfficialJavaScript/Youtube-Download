@@ -80,4 +80,5 @@ I used both my own basic knowledge of Python and quite a bit of ChatGPT to creat
 
 # Terms of Use #
  This application is for educational purposes and is not intended for Illegal uses - To download anything with this tool you must have explicit permission from the owner of the video/audio. 
+ 
  By using this application you agree to my Terms and Conditions - I take no responsibility for any illegal activity resulting in downloaded files using this application. 
