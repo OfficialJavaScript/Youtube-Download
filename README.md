@@ -67,16 +67,17 @@ Paste a Youtube link into the box, and press download - this process can take a 
 # Legality of this Application #
 YouTube video downloaders being legal or illegal is quite a controversial topic, here are some links to articles on this topic (Warning, you will be leaving GitHub, I can not confirm the safety and privacy of these links - enter at your own risk.):
 * https://www.videoconverterfactory.com/tips/is-it-legal-to-download-youtube-videos.html
-
+  
+- - - -
 
 # WARNING: Please DO NOT use this software to download YouTube copy-righted videos. #
 
-- - - -
+
 
 # How did I make this application? #
 
 I used both my own basic knowledge of Python and quite a bit of ChatGPT to create this application, the background of the web server was created by an AI - I will link the page when I find it again.
 
 # Terms of Use #
-## This application is for educational purposes and is not intended for Illegal uses - To download anything with this tool you must have explicit permission from the owner of the video/audio. ##
-## By using this application you agree to my Terms and Conditions - I take no responsibility for any illegal activity resulting in downloaded files using this application. ##
+ This application is for educational purposes and is not intended for Illegal uses - To download anything with this tool you must have explicit permission from the owner of the video/audio. 
+ By using this application you agree to my Terms and Conditions - I take no responsibility for any illegal activity resulting in downloaded files using this application. 
