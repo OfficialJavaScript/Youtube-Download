@@ -70,9 +70,7 @@ YouTube video downloaders being legal or illegal is quite a controversial topic,
   
 - - - -
 
-# WARNING: Please DO NOT use this software to download YouTube copy-righted videos. #
-
-
+WARNING: Please DO NOT use this software to download YouTube copy-righted videos. 
 
 # How did I make this application? #
 
