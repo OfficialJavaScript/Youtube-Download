@@ -16,7 +16,8 @@ Linux:
 3. Unzip the folder (See Instructions Below)
 4. Change into the Directory ```cd Youtube-Download-main```
 5. Install the requirements - ```pip install -r requirements.txt```
-6. run the file! - ```python3 app.py```
+6. Run the file! - ```python3 app.py```
+7. Continue down to the Usage Section
 
 Windows (GUI):
 1. Install Python3 - This can be found in the Windows Store (Find instructions elsewhere on how to install.)
@@ -30,6 +31,7 @@ https://github.com/OfficialJavaScript/Youtube-Download/assets/51689500/20f1ccdc-
 
 5. Run the command ```pip install -r requirements.txt```
 6. Now you can either run the file using ```python3 app.py``` in the command line or you can just double click the file via the File Explorer.
+7. Continue down to the Usage Section
 
 # Unzip the Zip #
 
