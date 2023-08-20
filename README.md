@@ -16,8 +16,9 @@ Windows (GUI):
 1. Install Python3 - This can be found in the Windows Store (Find instructions elsewhere on how to install.)
 2. Install Pip
 3. Unzip the folder (See Instructions Below)
-4. Now you will need to open Powershell (Non-Admin) 
-5. Now you can either run the file using ```python3 app.py``` or you can just double click the file via the File Explorer
+4. Now you will need to open Powershell (Non-Admin)
+5.![Open Powershell](https://github.com/OfficialJavaScript/Youtube-Download/assets/51689500/deb4f8c5-75a3-4047-84b6-b6a050b936df)
+6. Now you can either run the file using ```python3 app.py``` or you can just double click the file via the File Explorer
 
 # Unzip the Zip
 
