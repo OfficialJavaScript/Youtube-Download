@@ -1,6 +1,12 @@
 # Youtube Downloader #
 A Python tool to Download Youtube Videos
 
+# License #
+
+![image](https://github.com/OfficialJavaScript/Youtube-Download/assets/51689500/0f48ad0c-c425-450f-9c40-2c67f5a46606)
+
+You May do all of the things above, but any recreation please mention me high up in the readme and the code - This is the best way to support me and makes it easier for people to find the original post.
+
 # Installing Tool #
 
 To install this application follow the following instructions
