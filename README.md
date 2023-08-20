@@ -17,7 +17,11 @@ Windows (GUI):
 2. Install Pip
 3. Unzip the folder (See Instructions Below)
 4. Now you will need to open Powershell (Non-Admin)
-5. https://github.com/OfficialJavaScript/Youtube-Download/assets/51689500/9d507227-5819-48f2-89dc-637cc1cbb192
+
+
+https://github.com/OfficialJavaScript/Youtube-Download/assets/51689500/b2ab1e10-2cef-4d09-9696-dbbb5d1bd452
+
+
 6. Now you can either run the file using ```python3 app.py``` or you can just double click the file via the File Explorer
 
 # Unzip the Zip
