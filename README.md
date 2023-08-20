@@ -18,10 +18,6 @@ Windows (GUI):
 3. Unzip the folder (See Instructions Below)
 4. Now you will need to open Powershell (Non-Admin)
 
-
-https://github.com/OfficialJavaScript/Youtube-Download/assets/51689500/b2ab1e10-2cef-4d09-9696-dbbb5d1bd452
-
-
 6. Now you can either run the file using ```python3 app.py``` or you can just double click the file via the File Explorer
 
 # Unzip the Zip
