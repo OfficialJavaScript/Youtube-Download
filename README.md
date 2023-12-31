@@ -26,7 +26,9 @@ Windows (GUI):
 4. Now you will need to open Powershell (Non-Admin.) Watch the video below to see how to do so:
 
 
-https://github.com/OfficialJavaScript/Youtube-Download/assets/51689500/20f1ccdc-da9f-434b-88af-eb628b14342e
+https://github.com/OfficialJavaScript/Youtube-Download/assets/51689500/616f8f4b-b8e4-4e05-be8d-069b64608434
+
+
 
 
 5. Run the command ```pip install -r requirements.txt```
@@ -73,7 +75,7 @@ Paste a Youtube link into the box, and press download - this process can take a 
 * Add an easier way to change the download location.
 
 # Legality of this Application #
-YouTube video downloaders being legal or illegal is quite a controversial topic, here are some links to articles on this topic (Warning, you will be leaving GitHub, I can not confirm the safety and privacy of these links - enter at your own risk.):
+YouTube video downloaders being legal or illegal is quite a controversial topic, here are some links to articles on this topic (Warning, you will be leaving GitHub, and I can not confirm the safety and privacy of these links - enter at your own risk.):
 * https://www.videoconverterfactory.com/tips/is-it-legal-to-download-youtube-videos.html
   
 - - - -
